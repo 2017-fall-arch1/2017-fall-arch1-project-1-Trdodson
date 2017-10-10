@@ -1,5 +1,5 @@
 PERSONNEL MANAGEMENT SYSTEM
 ------------------------------
 This directory contains:
-- Code that implements a hash table.
+- Code that implements a binary search tree.
 - a Personnel Management System program that uses it.
